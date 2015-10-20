@@ -7,8 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		820A9F581BD50B7A00359503 /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 820A9F561BD50B7A00359503 /* 1.png */; };
-		820A9F591BD50B7A00359503 /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 820A9F571BD50B7A00359503 /* 2.png */; };
+		820A9F581BD50B7A00359503 /* GDataXML-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 820A9F561BD50B7A00359503 /* GDataXML-1.png */; };
+		820A9F591BD50B7A00359503 /* GDataXML-2.png in Resources */ = {isa = PBXBuildFile; fileRef = 820A9F571BD50B7A00359503 /* GDataXML-2.png */; };
 		826D48ED1BD5CF3F00C4BDB5 /* CountryCode.m in Sources */ = {isa = PBXBuildFile; fileRef = 826D48EC1BD5CF3F00C4BDB5 /* CountryCode.m */; };
 		826D48EF1BD5CF5600C4BDB5 /* xml.xml in Resources */ = {isa = PBXBuildFile; fileRef = 826D48EE1BD5CF5600C4BDB5 /* xml.xml */; };
 		826D48F11BD5D38600C4BDB5 /* iOS开发笔记XML解析.webarchive in Resources */ = {isa = PBXBuildFile; fileRef = 826D48F01BD5D38600C4BDB5 /* iOS开发笔记XML解析.webarchive */; };
@@ -34,8 +34,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		820A9F561BD50B7A00359503 /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
-		820A9F571BD50B7A00359503 /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
+		820A9F561BD50B7A00359503 /* GDataXML-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "GDataXML-1.png"; sourceTree = "<group>"; };
+		820A9F571BD50B7A00359503 /* GDataXML-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "GDataXML-2.png"; sourceTree = "<group>"; };
 		826D48EB1BD5CF3F00C4BDB5 /* CountryCode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CountryCode.h; sourceTree = "<group>"; };
 		826D48EC1BD5CF3F00C4BDB5 /* CountryCode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CountryCode.m; sourceTree = "<group>"; };
 		826D48EE1BD5CF5600C4BDB5 /* xml.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = xml.xml; sourceTree = "<group>"; };
@@ -80,6 +80,8 @@
 			isa = PBXGroup;
 			children = (
 				826D48F01BD5D38600C4BDB5 /* iOS开发笔记XML解析.webarchive */,
+				820A9F561BD50B7A00359503 /* GDataXML-1.png */,
+				820A9F571BD50B7A00359503 /* GDataXML-2.png */,
 			);
 			name = HelpDoc;
 			sourceTree = "<group>";
@@ -124,8 +126,6 @@
 		82EE716E1BD4932C004B5E90 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				820A9F561BD50B7A00359503 /* 1.png */,
-				820A9F571BD50B7A00359503 /* 2.png */,
 				82EE71991BD497E8004B5E90 /* 国家代码.xml */,
 				826D48EE1BD5CF5600C4BDB5 /* xml.xml */,
 				82EE716F1BD4932C004B5E90 /* Info.plist */,
@@ -250,12 +250,12 @@
 			files = (
 				826D48EF1BD5CF5600C4BDB5 /* xml.xml in Resources */,
 				826D48F11BD5D38600C4BDB5 /* iOS开发笔记XML解析.webarchive in Resources */,
-				820A9F591BD50B7A00359503 /* 2.png in Resources */,
+				820A9F591BD50B7A00359503 /* GDataXML-2.png in Resources */,
 				82EE717A1BD4932C004B5E90 /* Main.storyboard in Resources */,
 				82EE717F1BD4932C004B5E90 /* LaunchScreen.xib in Resources */,
 				82EE719A1BD497E8004B5E90 /* 国家代码.xml in Resources */,
 				82EE717C1BD4932C004B5E90 /* Images.xcassets in Resources */,
-				820A9F581BD50B7A00359503 /* 1.png in Resources */,
+				820A9F581BD50B7A00359503 /* GDataXML-1.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
