@@ -1,0 +1,999 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="3" ss:ExpandedRowCount="193" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="53" ss:DefaultRowHeight="14">
+   <Column ss:AutoFitWidth="0" ss:Width="65" ss:Span="1"/>
+   <Row ss:Height="28">
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Countries and Regions</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">国家或地区</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">电话代码 </Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Albania</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">阿尔巴尼亚</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="Number">355</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Algeria</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">阿尔及利亚</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">213</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Afghanistan</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">阿富汗</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="Number">93</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Argentina</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">阿根廷</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">54</Data></Cell>
+   </Row>
+   <Row ss:Height="28">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">United Arab Emirates</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">阿拉伯联合酋长国</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">971</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Oman</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">阿曼</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">968</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Azerbaijan</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">阿塞拜疆</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="Number">994</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Ascension</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">阿森松</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">247</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Egypt</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">埃及</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">20</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Ethiopia</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">埃塞俄比亚</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">251</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Ireland</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">爱尔兰</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">353</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Estonia</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">爱沙尼亚</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="Number">372</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Andorra</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">安道尔共和国</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">376</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Angola</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">安哥拉</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">244</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Anguilla</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">安圭拉岛</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">1264</Data></Cell>
+   </Row>
+   <Row ss:Height="28">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Antigua and Barbuda</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">安提瓜和巴布达</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">1268</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Austria</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">奥地利</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">43</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Australia</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">澳大利亚</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">61</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Macao</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">澳门</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">853</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Barbados</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">巴巴多斯</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">1246</Data></Cell>
+   </Row>
+   <Row ss:Height="28">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Papua New Cuinea</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">巴布亚新几内亚</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">675</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Bahamas</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">巴哈马</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">1242</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Pakistan</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">巴基斯坦</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">92</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Paraguay</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">巴拉圭</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">595</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Bahrain</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">巴林</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">973</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Panama</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">巴拿马</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">507</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">巴西</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">55</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Belarus</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">白俄罗斯</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="Number">375</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Bermuda Is.</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">百慕大群岛</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">1441</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Bulgaria</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">保加利亚</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">359</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Benin</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">贝宁</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">229</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Belgium</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">比利时</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">32</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Iceland</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">冰岛</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">354</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Puerto Rico</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">波多黎各</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">1787</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Poland</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">波兰</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">48</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Bolivia</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">玻利维亚</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">591</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Belize</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">伯利兹</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">501</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Botswana</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">博茨瓦纳</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">267</Data></Cell>
+   </Row>
+   <Row ss:Height="28">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Burkina-faso</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">布基纳法索</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">226</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Burundi</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">布隆迪</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">257</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">North Korea</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">朝鲜</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="Number">850</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Denmark</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">丹麦</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">45</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Germany</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">德国</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="Number">49</Data></Cell>
+   </Row>
+   <Row ss:Height="28">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Samoa Eastern</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">东萨摩亚(美)</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">684</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Togo</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">多哥</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">228</Data></Cell>
+   </Row>
+   <Row ss:Height="28">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Dominica Rep.</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">多米尼加共和国</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">1890</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Russia</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">俄罗斯</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="Number">7</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Ecuador</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">厄瓜多尔</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">593</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">France</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">法国</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">33</Data></Cell>
+   </Row>
+   <Row ss:Height="28">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">French Polynesia</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">法属玻利尼西亚</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">689</Data></Cell>
+   </Row>
+   <Row ss:Height="28">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">French Guiana</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">法属圭亚那</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">594</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Philippines</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">菲律宾</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">63</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Fiji</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">斐济</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">679</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Finland</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">芬兰</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">358</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Gambia</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">冈比亚</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">220</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Congo</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">刚果</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">242</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Colombia</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">哥伦比亚</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">57</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Costa Rica</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">哥斯达黎加</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">506</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Grenada</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">格林纳达</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">1809</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Georgia</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">格鲁吉亚</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="Number">995</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Cuba</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">古巴</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">53</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Guam</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">关岛</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">1671</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Guyana</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">圭亚那</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">592</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Kazakstan</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">哈萨克斯坦</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="Number">327</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Haiti</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">海地</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">509</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Korea</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">韩国</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="Number">82</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Netherlands</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">荷兰</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">31</Data></Cell>
+   </Row>
+   <Row ss:Height="28">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Netheriands Antilles</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">荷属安的列斯</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">599</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Honduras</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">洪都拉斯</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">504</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Djibouti</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">吉布提</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">253</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Kyrgyzstan</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">吉尔吉斯坦</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="Number">331</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Guinea</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">几内亚</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="Number">224</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Canada</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">加拿大</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Ghana</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">加纳</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="Number">233</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Gabon</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">加蓬</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">241</Data></Cell>
+   </Row>
+   <Row ss:Height="28">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Kampuchea (Cambodia )</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">柬埔寨</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="Number">855</Data></Cell>
+   </Row>
+   <Row ss:Height="28">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Czech Republic</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">捷克</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="Number">420</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Zimbabwe</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">津巴布韦</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">263</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Cameroon</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">喀麦隆</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">237</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Qatar</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">卡塔尔</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">974</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Cayman Is.</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">开曼群岛</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">1345</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Ivory Coast</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">科特迪瓦</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">225</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Kuwait</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">科威特</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">965</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Kenya</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">肯尼亚</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">254</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Cook Is.</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">库克群岛</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">682</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Latvia</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">拉脱维亚</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="Number">371</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Lesotho</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">莱索托</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">266</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Laos</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">老挝</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="Number">856</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Lebanon</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">黎巴嫩</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">961</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Lithuania</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">立陶宛</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="Number">370</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Liberia</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">利比里亚</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">231</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Libya</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">利比亚</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">218</Data></Cell>
+   </Row>
+   <Row ss:Height="28">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Liechtenstein</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">列支敦士登</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">423</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Reunion</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">留尼旺</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">262</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Luxembourg</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">卢森堡</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">352</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Romania</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">罗马尼亚</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">40</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Madagascar</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">马达加斯加</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">261</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Maldives</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">马尔代夫</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">960</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Malta</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">马耳他</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">356</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Malawi</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">马拉维</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">265</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Malaysia</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">马来西亚</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Mali</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">马里</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">223</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Mariana Is</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">马里亚那群岛</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">1670</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Martinique</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">马提尼克</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">596</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Mauritius</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">毛里求斯</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">230</Data></Cell>
+   </Row>
+   <Row ss:Height="42">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">United States of America</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">美国</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Mongolia</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">蒙古</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="Number">976</Data></Cell>
+   </Row>
+   <Row ss:Height="28">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Montserrat Is</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">蒙特塞拉特岛</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">1664</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Bangladesh</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">孟加拉国</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">880</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Peru</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">秘鲁</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">51</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Burma</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">缅甸</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">95</Data></Cell>
+   </Row>
+   <Row ss:Height="28">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Moldova, Republic of</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">摩尔多瓦</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="Number">373</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Morocco</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">摩洛哥</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">212</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Monaco</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">摩纳哥</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">377</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Mozambique</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">莫桑比克</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">258</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Mexico</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">墨西哥</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">52</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Namibia</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">纳米比亚</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="Number">264</Data></Cell>
+   </Row>
+   <Row ss:Height="28">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">South Africa</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">南非</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="Number">27</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Yugoslavia</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">南斯拉夫</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">381</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Nauru</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">瑙鲁</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">674</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Nepal</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">尼泊尔</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">977</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Nicaragua</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">尼加拉瓜</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">505</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Niger</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">尼日尔</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">227</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Nigeria</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">尼日利亚</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">234</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Norway</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">挪威</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">47</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Portugal</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">葡萄牙</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">351</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Japan</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">日本</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">81</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Sweden</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">瑞典</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">46</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Switzerland</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">瑞士</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">41</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">EI Salvador</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">萨尔瓦多</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">503</Data></Cell>
+   </Row>
+   <Row ss:Height="28">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Sierra Leone</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">塞拉利昂</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">232</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Senegal</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">塞内加尔</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">221</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Cyprus</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">塞浦路斯</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">357</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Seychelles</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">塞舌尔</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">248</Data></Cell>
+   </Row>
+   <Row ss:Height="28">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Saudi Arabia</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">沙特阿拉伯</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">966</Data></Cell>
+   </Row>
+   <Row ss:Height="42">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Sao Tome and Principe</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">圣多美和普林西比</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">239</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Saint Lueia</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">圣卢西亚</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="Number">1758</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">St.Lucia</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">圣卢西亚</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">1758</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">San Marino</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">圣马力诺</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">378</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">St.Vincent</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">圣文森特</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">1784</Data></Cell>
+   </Row>
+   <Row ss:Height="28">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Saint Vincent</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">圣文森特岛</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="Number">1784</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Sri Lanka</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">斯里兰卡</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">94</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Slovakia</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">斯洛伐克</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">421</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Slovenia</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">斯洛文尼亚</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="Number">386</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Swaziland</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">斯威士兰</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">268</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Sudan</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">苏丹</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">249</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Suriname</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">苏里南</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">597</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Solomon Is</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">所罗门群岛</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">677</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Somali</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">索马里</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">252</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Tajikstan</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">塔吉克斯坦</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="Number">992</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Taiwan</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">台湾省</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="Number">886</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Thailand</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">泰国</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">66</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Tanzania</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">坦桑尼亚</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">255</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Tonga</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">汤加</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">676</Data></Cell>
+   </Row>
+   <Row ss:Height="28">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Trinidad and Tobago</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">特立尼达和多巴哥</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">1809</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Tunisia</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">突尼斯</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">216</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Turkey</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">土耳其</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">90</Data></Cell>
+   </Row>
+   <Row ss:Height="28">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Turkmenistan</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">土库曼斯坦</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="Number">993</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Guatemala</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">危地马拉</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">502</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Venezuela</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">委内瑞拉</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">58</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Brunei</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">文莱</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">673</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Uganda</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">乌干达</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">256</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Ukraine</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">乌克兰</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="Number">380</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Uruguay</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">乌拉圭</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">598</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Uzbekistan</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">乌兹别克斯坦</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="Number">233</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Spain</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">西班牙</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">34</Data></Cell>
+   </Row>
+   <Row ss:Height="28">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Samoa Western</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">西萨摩亚</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">685</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Greece</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">希腊</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">30</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Hongkong</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">香港</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">852</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Singapore</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">新加坡</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">65</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">New Zealand</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">新西兰</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">64</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Hungary</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">匈牙利</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">36</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Syria</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">叙利亚</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">963</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Jamaica</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">牙买加</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">1876</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Armenia</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">亚美尼亚</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="Number">374</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Yemen</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">也门</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">967</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Iraq</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">伊拉克</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">964</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Iran</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">伊朗</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">98</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Israel</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">以色列</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="Number">972</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Italy</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">意大利</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">39</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">India</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">印度</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">91</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Indonesia</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">印度尼西亚</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">62</Data></Cell>
+   </Row>
+   <Row ss:Height="28">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">United Kiongdom</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">英国</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">44</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Jordan</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">约旦</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">962</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Vietnam</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">越南</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="Number">84</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Zambia</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">赞比亚</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">260</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Zaire</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">扎伊尔</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="Number">243</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Chad</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">乍得</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="Number">235</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Gibraltar</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">直布罗陀</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">350</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Chile</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">智利</Data></Cell>
+    <Cell ss:StyleID="s19"><Data ss:Type="Number">56</Data></Cell>
+   </Row>
+   <Row ss:Height="42">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Central African Republic</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">中非共和国</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="Number">236</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">China</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">中国</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="Number">86</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>300</HorizontalResolution>
+    <VerticalResolution>300</VerticalResolution>
+   </Print>
+   <PageLayoutZoom>0</PageLayoutZoom>
+   <Selected/>
+   <TopRowVisible>24</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>9</ActiveRow>
+     <ActiveCol>1</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
